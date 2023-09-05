@@ -24,7 +24,7 @@ documentation:
   author:       "Patryk Warnke MY REMOTE IOT"      # Your name
   title:        "Logic Circuit 1"      # Project title
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
-  description:  "Logic Circuit Timing Test"      # Short description of what your project does
+  description:  "Logic Circuit Timing Test. Serial 1"      # Short description of what your project does
 
 # Longer description of how the project works. You can use standard markdown format.
   how_it_works: |
